@@ -26,3 +26,6 @@ Thumbs.db
 
 # Deployment scripts
 subir_a_github.bat
+
+# Seguridad de  mi directorio en donde tengo los ficheros a subir_a_github
+decir-a-Github-que-este-directorio-es-seguro.txt
